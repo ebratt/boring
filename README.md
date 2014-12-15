@@ -1,0 +1,4 @@
+boring
+======
+
+sample Go program
